@@ -1,0 +1,28 @@
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\bin\Debug\kontrol led.exe
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\bin\Debug\kontrol led.pdb
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\MainWindow.baml
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\App.g.cs
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\kontrol led_MarkupCompile.cache
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\kontrol led.g.resources
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\kontrol_led.Properties.Resources.resources
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\kontrol led.exe
+C:\Users\LSKKbasement\Documents\Visual Studio 2010\Projects\kontrol led\kontrol led\obj\x86\Debug\kontrol led.pdb
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\kontrol led.exe
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\kontrol led.pdb
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\bin\Debug\kontrol led.exe
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\bin\Debug\kontrol led.pdb
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\MainWindow.baml
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\App.g.cs
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\kontrol led_MarkupCompile.cache
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\kontrol led.g.resources
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\kontrol_led.Properties.Resources.resources
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Documents\Kuliah\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Documents\Kuliah\S1\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\kontrol led.exe
+C:\Users\DELL\Documents\Kuliah\S1\sem 7\OOP\kontrol led\kontrol led\obj\x86\Debug\kontrol led.pdb
